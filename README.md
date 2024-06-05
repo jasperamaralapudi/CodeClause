@@ -14,3 +14,5 @@ A simple and user-friendly web application that allows users to set a countdown 
 - HTML
 - CSS
 - JavaScript
+## Link
+[Counter Timer Website](https://jasperamaralapudi.github.io/CodeClause/countdowntimer.html)
